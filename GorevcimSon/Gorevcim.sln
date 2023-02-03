@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Core", "Gorevcim.Core\Gorevcim.Core.csproj", "{1D0D9427-566C-40D4-9646-C213909DAEA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Repository", "Gorevcim.Repository\Gorevcim.Repository.csproj", "{23A1326F-AFBE-456E-AA4C-0ED3FCB8217A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Service", "Gorevcim.Service\Gorevcim.Service.csproj", "{8FFBC160-C226-495D-8F70-212DB8EBE5BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.API", "Gorevcim.API\Gorevcim.API.csproj", "{3AD38126-BFAB-49D8-A2FF-E3F1DE7106D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.WEB", "Gorevcim.WEB\Gorevcim.WEB.csproj", "{AF748DFF-49AB-4185-B724-E6EB6BFF9792}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Caching", "Gorevcim.Caching\Gorevcim.Caching.csproj", "{B2E4099A-E38A-40A2-B16D-D41BFD0E7059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D0D9427-566C-40D4-9646-C213909DAEA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D0D9427-566C-40D4-9646-C213909DAEA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D0D9427-566C-40D4-9646-C213909DAEA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D0D9427-566C-40D4-9646-C213909DAEA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23A1326F-AFBE-456E-AA4C-0ED3FCB8217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23A1326F-AFBE-456E-AA4C-0ED3FCB8217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23A1326F-AFBE-456E-AA4C-0ED3FCB8217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23A1326F-AFBE-456E-AA4C-0ED3FCB8217A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFBC160-C226-495D-8F70-212DB8EBE5BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFBC160-C226-495D-8F70-212DB8EBE5BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFBC160-C226-495D-8F70-212DB8EBE5BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFBC160-C226-495D-8F70-212DB8EBE5BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AD38126-BFAB-49D8-A2FF-E3F1DE7106D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AD38126-BFAB-49D8-A2FF-E3F1DE7106D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AD38126-BFAB-49D8-A2FF-E3F1DE7106D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AD38126-BFAB-49D8-A2FF-E3F1DE7106D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF748DFF-49AB-4185-B724-E6EB6BFF9792}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF748DFF-49AB-4185-B724-E6EB6BFF9792}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF748DFF-49AB-4185-B724-E6EB6BFF9792}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF748DFF-49AB-4185-B724-E6EB6BFF9792}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2E4099A-E38A-40A2-B16D-D41BFD0E7059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2E4099A-E38A-40A2-B16D-D41BFD0E7059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2E4099A-E38A-40A2-B16D-D41BFD0E7059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2E4099A-E38A-40A2-B16D-D41BFD0E7059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {710EA164-30A3-45AD-9790-9B51220EC789}
+	EndGlobalSection
+EndGlobal

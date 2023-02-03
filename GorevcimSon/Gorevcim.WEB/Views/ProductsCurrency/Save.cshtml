@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Save";
+}
+@model ProductCurrencyUnitsDto
+
+
+
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-action="Save" method="post" asp-controller="ProductsCurrency" class="needs-validation" novalidate>
+                <h4 class="card-title">Para Kayıt</h4>
+
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductProjectBrandsNameSave">Adı</label>
+                    <div class="col-md-6">
+                        <input asp-for="Name" type="text" class="form-control" id="ProductProjectNameSave" placeholder="Para Birimi Yazınız" required>
+                        <div class="invalid-feedback"> Para Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label">Kısa Kod</label>
+                    <div class="col-md-6">
+                        <input asp-for="ShortCode" id="BrandsWebUrlSave" class="form-control" type="text" placeholder="Para Birimi Kodu Yazınız" required>
+                        <div class="invalid-feedback">Para Birimi Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+   
+
+                <input type="submit" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+
+

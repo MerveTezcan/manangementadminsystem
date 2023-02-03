@@ -1,0 +1,714 @@
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.Gorevcim.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Gorevcim.API.props
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gorevcim.API.props
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gorevcim.API.props
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.Gorevcim.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Gorevcim.API.props
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gorevcim.API.props
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gorevcim.API.props
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.AssemblyReference.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfoInputs.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.AssemblyInfo.cs
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CoreCompileInputs.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\refint\Gorevcim.API.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\appsettings.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.exe
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.deps.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.runtimeconfig.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.API.pdb
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Autofac.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Service.pdb
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\bin\Debug\net6.0\Gorevcim.Repository.pdb
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.Gorevcim.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Gorevcim.API.props
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Gorevcim.API.props
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Gorevcim.API.props
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\scopedcss\bundle\Gorevcim.API.styles.css
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.csproj.CopyComplete
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\Gorevcim.API.genruntimeconfig.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.API\obj\Debug\net6.0\ref\Gorevcim.API.dll

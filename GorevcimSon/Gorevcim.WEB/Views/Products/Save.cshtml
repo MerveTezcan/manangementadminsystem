@@ -1,0 +1,208 @@
+﻿@{
+    ViewData["Title"] = "Save";
+}
+@model ProductDto
+
+
+
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form  asp-action="Save" method="post" asp-controller="Products" class="needs-validation" novalidate>
+                <h4 class="card-title">Ürün Kayıt</h4>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="CategoryId" class="col-md-2 col-form-label">Kategori</label>
+                    <div class="col-md-6">
+                        <select id="ProductsCategoryIdSave" asp-for="CategoryId" asp-items="ViewBag.categories" class="form-select" placeholder="Kategori Seçiniz"></select>
+                        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ColorId" class="col-md-2 col-form-label">Renk</label>
+                    <div class="col-md-6">
+                        <select id="ColorId" asp-for="ColorId" asp-items="ViewBag.productsColor" class="form-select" placeholder="Renk Seçiniz"></select>
+                        <span asp-validation-for="ColorId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ProductBrandId" class="col-md-2 col-form-label">Marka</label>
+                    <div class="col-md-6">
+                        <select id="ProductBrandIdSave" asp-for="ProductBrandId" asp-items="ViewBag.productBrands" class="form-select" placeholder="Marka Seçiniz"></select>
+                        <span asp-validation-for="ProductBrandId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ProductProjectId" class="col-md-2 col-form-label">Proje</label>
+                    <div class="col-md-6">
+                        <select id="ProductProjectIdSave" asp-for="ProductProjectId" asp-items="ViewBag.productProject" class="form-select" placeholder="Proje Seçiniz"></select>
+                        <span asp-validation-for="ProductProjectId" class="text-danger"></span>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="ProductCurrencyId" class="col-md-2 col-form-label">Para Birimi</label>
+                    <div class="col-md-6">
+                        <select id="ProductCurrencyIdSave" asp-for="ProductCurrencyId" asp-items="ViewBag.productCurrency" class="form-select" placeholder="Para Birimi Seçiniz"></select>
+                        <span asp-validation-for="ProductCurrencyId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ProductMeasurementId" class="col-md-2 col-form-label">Ölçü Birimi</label>
+                    <div class="col-md-6">
+                        <select id="ProductMeasurementIdSave" asp-for="ProductMeasurementId" asp-items="ViewBag.productMeasurement" class="form-select" placeholder="Ölçü Birimi Seçiniz"></select>
+                        <span asp-validation-for="ProductMeasurementId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ProductVatId" class="col-md-2 col-form-label">Kdv</label>
+                    <div class="col-md-6">
+                        <select id="ProductVatIdIdSave" asp-for="ProductVatId" asp-items="ViewBag.productVat" class="form-select" placeholder="Kdv Seçiniz"></select>
+                        <span asp-validation-for="ProductVatId" class="text-danger"></span>
+                    </div>
+                </div>
+
+                 <div class="mb-3 row">
+                    <label asp-for="ProductWeightId" class="col-md-2 col-form-label">Renk</label>
+                    <div class="col-md-6">
+                        <select id="ProductWeightIdIdSave" asp-for="ProductWeightId" asp-items="ViewBag.productWeight" class="form-select" placeholder="Ağırlık Seçiniz"></select>
+                        <span asp-validation-for="ProductWeightId" class="text-danger"></span>
+                    </div>
+                </div>
+
+
+                
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductsNameSave">Adı</label>
+                    <div class="col-md-6">
+                        <input asp-for="Name" type="text" class="form-control" id="ProductsNameSave" placeholder="Ürün Adını Yazınız" required>
+                        <div class="invalid-feedback">Ürün Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="Code" class="col-md-2 col-form-label">Kodu</label>
+                    <div class="col-md-6">
+                        <input asp-for="Code" id="ProductsCodeSave" class="form-control" type="text" placeholder="Ürün Kodunu Yazınız" required>
+                        <div class="invalid-feedback">Ürün Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="Barcode" class="col-md-2 col-form-label">Barkod</label>
+                    <div class="col-md-6">
+                        <input asp-for="Barcode" id="ProductsBarcodeSave" class="form-control" type="text" placeholder="Ürün Barkodunu Yazınız" required>
+                        <div class="invalid-feedback">Ürün Barkod Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+
+                <div class="mb-3 row">
+                    <label asp-for="PurchasePrice" class="col-md-2 col-form-label">Alış Tutarı</label>
+                    <div class="col-md-6">
+                        <input asp-for="PurchasePrice" id="ProductsPurchasePriceSave" class="form-control" type="text" placeholder="Alış Tutarını Yazınız" required>
+                        <div class="invalid-feedback">Ürün Alış Tutarı Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="SalePrice" class="col-md-2 col-form-label">Satış Tutarı</label>
+                    <div class="col-md-6">
+                        <input asp-for="SalePrice" id="ProductsSalePriceSave" class="form-control" type="text" placeholder="Satış Tutarını Yazınız" required onkeypress="return isNumberKey(event)">
+                        <div class="invalid-feedback">Ürün Satış Tutarı Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="Stock" class="col-md-2 col-form-label">Stok</label>
+                    <div class="col-md-6">
+                        <input asp-for="Stock" id="ProductsStockSave" class="form-control" type="text" placeholder="Stok Griniz" required>
+                        <div class="invalid-feedback">Ürün Stok Miktarı Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="TechnicalWebUrl" class="col-md-2 col-form-label">Teknik Link</label>
+                    <div class="col-md-6">
+                        <input asp-for="TechnicalWebUrl" id="ProductsTechnicalWebUrlSave" class="form-control" type="text" placeholder="Teknik Döküman Linki Giriniz" required>
+                        <div class="invalid-feedback">Ürünün Teknik Link Yolu Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ExplanationWebUrl" class="col-md-2 col-form-label">Açıklama Link</label>
+                    <div class="col-md-6">
+                        <input asp-for="ExplanationWebUrl" id="ProductsExplanationWebUrlSave" class="form-control" type="text" placeholder="Açıklama Döküman Linki Giriniz" required>
+                        <div class="invalid-feedback">Ürünün Açıklama Link Yolu Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="Explanation" class="col-md-2 col-form-label">Açıklama</label>
+                    <div class="col-md-6">
+                    <textarea id="elm1" asp-for="Explanation" class="form-control"></textarea>
+                   
+                    </div>
+                </div>
+
+                
+                <input type="submit" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+    function ProductsJsKaydet() {
+        var data = $("#ProductsSaveHtmlForm").serialize();
+        console.log(data);
+        alert(data);
+        $.ajax({
+            type: 'POST',
+            url: '/Products/Save',
+            contentType: 'application/x-www-form-urlencoded; charset=UTF-8'
+            data: data,
+            success: function (result) {
+                alert('Kayıt oluştu ');
+                console.log(result);
+            },
+            error: function () {
+                alert('kayıt Başarısız');
+                console.log('Failed ');
+            }
+        })
+    }
+
+</script>
+
+<script>
+
+    function isNumberKey(evt) {
+        var charCode = (evt.which) ? evt.which : event.keyCode;
+        if (charCode > 31 && (charCode < 48 || charCode > 57))
+            return false;
+        return true;
+    }
+
+</script>
+
+

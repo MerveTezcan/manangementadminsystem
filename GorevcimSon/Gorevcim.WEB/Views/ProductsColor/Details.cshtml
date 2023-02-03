@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Details";
+}
+@model ProductColorsDto 
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-controller="ProductsColor" asp-action="Details" method="post" class="needs-validation" novalidate>
+                <h4 class="card-title">Renk</h4>
+                <input type="hidden" asp-for="Id" id="ProductsColorIdUpdate">
+
+                <div class="mb-3 row">
+                    <label asp-for="Id" class="col-md-2 col-form-label"></label>
+                    <div class="col-md-6">
+                        <select id="ProductsColorIdUpdate" asp-for="Name" asp-items="ViewBag.productColors" class="form-select" disabled readonly></select>
+                        <span asp-validation-for="Id" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductColorNameSave">Adı</label>
+                    <div class="col-md-6">
+                        <input id="ProductColorNameUpdate" asp-for="Name" type="text" class="form-control" placeholder="Renk Adını Yazınız" disabled readonly required>
+                        <div class="invalid-feedback">Renk Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="Code" class="col-md-2 col-form-label">Kodu</label>
+                    <div class="col-md-6">
+                        <input id="ProductColorCodeUpdate" asp-for="Code" type="text" class="form-control" placeholder="Renk Kodunu Yazınız" disabled readonly required>
+                        <div class="invalid-feedback">Renk Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+            </form>
+
+
+   
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+@model ProductMeasurementUnitsDto
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-controller="ProductsMeasurement" asp-action="Update" method="post" class="needs-validation" novalidate>
+                <h4 class="card-title">Ölçü Birimi  Güncelle</h4>
+                <input type="hidden" asp-for="ProductMeasurementId" id="ProductProjectIdUpdate">
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductProjectNameSave">Ölçü Adı</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectNameUpdate" asp-for="Name" type="text" class="form-control" placeholder="Ölçü Adı Yazınız" required>
+                        <div class="invalid-feedback">Ölçü Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label">Ölçü Kodu</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectCodeUpdate" asp-for="ShortCode" type="text" class="form-control" placeholder="Ölçü Kodunu Yazınız" required>
+                        <div class="invalid-feedback">Ölçü Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+
+                <input type="submit" value="Güncelle" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+
+
+
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+

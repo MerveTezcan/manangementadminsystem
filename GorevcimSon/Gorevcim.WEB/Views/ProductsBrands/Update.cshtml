@@ -1,0 +1,54 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+@model ProductBrandsDto
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-controller="ProductsBrands" asp-action="Update" method="post" class="needs-validation" novalidate>
+                <h4 class="card-title">Marka Güncelle</h4>
+                <input type="hidden" asp-for="Id" id="ProductsBrandsIdUpdate">
+
+                <div class="mb-3 row">
+                    <label asp-for="BrandsName" class="col-md-2 col-form-label" for="ProductsBrandsNameUpdate">Marka Adı</label>
+                    <div class="col-md-6">
+                        <input id="ProductsBrandsNameUpdate" asp-for="BrandsName" type="text" class="form-control" placeholder="Marka Adını Yazınız" required>
+                        <div class="invalid-feedback">Marka Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+                
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label" for="ProductsBrandsShortCodeUpdate">Marka Kodu</label>
+                    <div class="col-md-6">
+                        <input id="ProductsBrandsShortCodeUpdate" asp-for="ShortCode" type="text" class="form-control" placeholder="Marka Kodu Yazınız" required>
+                        <div class="invalid-feedback">Marka Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="BrandsWebUrl" class="col-md-2 col-form-label" for="ProductsBrandsBrandsWebUrlUpdate">Marka Web</label>
+                    <div class="col-md-6">
+                        <input id="ProductsBrandsBrandsWebUrlUpdate" asp-for="BrandsWebUrl" type="text" class="form-control" placeholder="Web Url Yazınız" required>
+                        <div class="invalid-feedback">Web UrlBoş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Explanation" class="col-md-2 col-form-label" for="ProductsBrandsExplanationUpdate">Açıklama</label>
+                    <div class="col-md-6">
+                        <input id="ProductsBrandsExplanationUpdate" asp-for="Explanation" type="text" class="form-control" required>
+                        <div class="invalid-feedback">Projenin Açıklaması Boş olamaz!</div>
+                    </div>
+                </div>
+                <input type="submit" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+            </form>
+
+        </div>
+    </div>
+</div>
+

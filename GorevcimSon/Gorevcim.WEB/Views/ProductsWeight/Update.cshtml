@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+@model ProductWeightUnitsDto
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-controller="ProductsWeight" asp-action="Update" method="post" class="needs-validation" novalidate>
+                <h4 class="card-title">Ağırlık Birimi  Güncelle</h4>
+                <input type="hidden" asp-for="ProductWeightId" id="ProductProjectIdUpdate">
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductProjectNameSave">Ağırlık Adı</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectNameUpdate" asp-for="Name" type="text" class="form-control" placeholder="Ağırlık Adı Yazınız" required>
+                        <div class="invalid-feedback">Ağırlık Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label">Ağırlık Kodu</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectCodeUpdate" asp-for="ShortCode" type="text" class="form-control" placeholder="Ağırlık Kısa Kodunu Yazınız" required>
+                        <div class="invalid-feedback">Ağırlık Kısa Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Explanation" class="col-md-2 col-form-label">Açıklama</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectCodeUpdate" asp-for="Explanation" type="text" class="form-control" placeholder="Açıklama Yazınız" required>
+                        <div class="invalid-feedback">Açıklama Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <input type="submit" value="Güncelle" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+
+
+
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+

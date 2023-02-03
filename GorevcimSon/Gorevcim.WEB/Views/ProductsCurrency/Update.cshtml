@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+@model ProductCurrencyUnitsDto
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-controller="ProductsCurrency" asp-action="Update" method="post" class="needs-validation" novalidate>
+                <h4 class="card-title">Para Güncelle</h4>
+                <input type="hidden" asp-for="ProductCurrencyId" id="ProductProjectIdUpdate">
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductProjectNameSave">Para Adı</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectNameUpdate" asp-for="Name" type="text" class="form-control" placeholder="Para Id Yazınız" required>
+                        <div class="invalid-feedback">Para Id Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label">Para Kodu</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectCodeUpdate" asp-for="ShortCode" type="text" class="form-control" placeholder="Para Kodunu Yazınız" required>
+                        <div class="invalid-feedback">Para Kodunu  olamaz!</div>
+                    </div>
+                </div>
+
+
+
+                <input type="submit" value="Güncelle" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+
+
+
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Save";
+}
+@model ProductMeasurementUnitsDto
+
+
+
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-action="Save" method="post" asp-controller="ProductsMeasurement" class="needs-validation" novalidate>
+                <h4 class="card-title">Ölçü Kayıt</h4>
+
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductProjectBrandsNameSave">Adı</label>
+                    <div class="col-md-6">
+                        <input asp-for="Name" type="text" class="form-control" id="ProductProjectNameSave" placeholder="Ölçü Birimi Yazınız" required>
+                        <div class="invalid-feedback"> Ölçü Birimi Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label"> Kod</label>
+                    <div class="col-md-6">
+                        <input asp-for="ShortCode" id="BrandsWebUrlSave" class="form-control" type="text" placeholder="Ölçü Birimi Kodu Yazınız" required>
+                        <div class="invalid-feedback">Ölçü Birimi Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+   
+
+                <input type="submit" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+
+

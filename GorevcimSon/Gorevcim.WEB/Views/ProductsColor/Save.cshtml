@@ -1,0 +1,73 @@
+﻿@{
+    ViewData["Title"] = "Save";
+}
+@model ProductColorsDto
+
+
+
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form  asp-action="Save" method="post" asp-controller="ProductsColor" class="needs-validation" novalidate>
+                <h4 class="card-title">Renk Kayıt</h4>
+
+
+        
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductColorNameSave">Adı</label>
+                    <div class="col-md-6">
+                        <input asp-for="Name" type="text" class="form-control" id="ProductColorNameSave" placeholder="Renk Adını Yazınız" required>
+                        <div class="invalid-feedback">Renk Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+               <div class="mb-3 row">
+                    <label asp-for="Code" class="col-md-2 col-form-label">Renk Kodu</label>
+                    <div class="col-md-6">
+                        <input asp-for="Code" id="ProductColorCodeSave" class="form-control" type="text" placeholder="Renk Kodunu Yazınız" required>
+                        <div class="invalid-feedback">Renk Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+                
+                <input type="submit" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+<script type="text/javascript">
+    function ProductsJsKaydet() {
+        var data = $("#ProductsSaveHtmlForm").serialize();
+        console.log(data);
+        alert(data);
+        $.ajax({
+            type: 'POST',
+            url: '/Products/Save',
+            contentType: 'application/x-www-form-urlencoded; charset=UTF-8'
+            data: data,
+            success: function (result) {
+                alert('Kayıt oluştu ');
+                console.log(result);
+            },
+            error: function () {
+                alert('kayıt Başarısız');
+                console.log('Failed ');
+            }
+        })
+    }
+
+</script>
+
+
+
+
+
+

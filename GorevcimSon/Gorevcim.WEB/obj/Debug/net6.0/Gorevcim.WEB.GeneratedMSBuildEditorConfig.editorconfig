@@ -1,0 +1,229 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Gorevcim.WEB
+build_property.RootNamespace = Gorevcim.WEB
+build_property.ProjectDir = C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.WEB\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.WEB
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/BranchOffice/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoT2ZmaWNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/BranchOffice/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoT2ZmaWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/BranchOffice/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoT2ZmaWNlXFNhdmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/BranchOffice/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoT2ZmaWNlXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/CompanyDealer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURlYWxlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/CompanyDealer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURlYWxlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/CompanyDealer/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURlYWxlclxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/CompanyDealer/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueURlYWxlclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Company/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Company/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Company/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Company/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsBrands/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNCcmFuZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsBrands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNCcmFuZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsBrands/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNCcmFuZHNcU2F2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsBrands/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNCcmFuZHNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsColor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDb2xvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsColor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDb2xvclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsColor/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDb2xvclxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsColor/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDb2xvclxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsCurrency/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDdXJyZW5jeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsCurrency/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDdXJyZW5jeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsCurrency/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDdXJyZW5jeVxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsCurrency/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNDdXJyZW5jeVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsImage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNJbWFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsImage/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNJbWFnZVxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsMeasurement/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNNZWFzdXJlbWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsMeasurement/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNNZWFzdXJlbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsMeasurement/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNNZWFzdXJlbWVudFxTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsMeasurement/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNNZWFzdXJlbWVudFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsProjects/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNQcm9qZWN0c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsProjects/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNQcm9qZWN0c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsProjects/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNQcm9qZWN0c1xTYXZlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsProjects/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNQcm9qZWN0c1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsVat/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNWYXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsVat/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNWYXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsVat/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNWYXRcU2F2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsVat/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNWYXRcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsWeight/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNXZWlnaHRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsWeight/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNXZWlnaHRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsWeight/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNXZWlnaHRcU2F2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/ProductsWeight/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNXZWlnaHRcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Products/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Products/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Products/Save.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2F2ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Products/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/merve.tezcan/Desktop/GorevcimSon/Gorevcim.WEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-j2jnce03pp

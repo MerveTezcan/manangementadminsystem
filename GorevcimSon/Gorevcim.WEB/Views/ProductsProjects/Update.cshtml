@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Update";
+}
+@model ProductProjectsDto
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-controller="ProductsProjects" asp-action="Update" method="post" class="needs-validation" novalidate>
+                <h4 class="card-title">Projeyi Güncelle</h4>
+                <input type="hidden" asp-for="ProductProjectId" id="ProductProjectIdUpdate">
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductProjectNameSave">Proje Adı</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectNameUpdate" asp-for="Name" type="text" class="form-control" placeholder="Proje Adını Yazınız" required>
+                        <div class="invalid-feedback">Proje Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label">Proje Kodu</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectCodeUpdate" asp-for="ShortCode" type="text" class="form-control" placeholder="Proje Kodunu Yazınız" required>
+                        <div class="invalid-feedback">Proje Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Explanation" class="col-md-2 col-form-label">Açıklama</label>
+                    <div class="col-md-6">
+                        <input id="ProductsExplanationUpdate" asp-for="Explanation" type="text" class="form-control" required>
+                        <div class="invalid-feedback">Projenin Açıklaması Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <input type="submit" value="Güncelle" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+
+
+
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+

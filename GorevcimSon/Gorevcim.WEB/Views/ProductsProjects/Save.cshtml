@@ -1,0 +1,55 @@
+﻿@{
+    ViewData["Title"] = "Save";
+}
+@model ProductProjectsDto
+
+
+
+
+<div class="col-lg-12">
+    <div class="card">
+        <div class="card-body">
+            <form asp-action="Save" method="post" asp-controller="ProductsProjects" class="needs-validation" novalidate>
+                <h4 class="card-title">Proje Kayıt</h4>
+
+
+
+
+                <div class="mb-3 row">
+                    <label asp-for="Name" class="col-md-2 col-form-label" for="ProductProjectNameSave">Adı</label>
+                    <div class="col-md-6">
+                        <input asp-for="Name" type="text" class="form-control" id="ProductProjectNameSave" placeholder="Proje Adını Yazınız" required>
+                        <div class="invalid-feedback"> Proje Adı Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="ShortCode" class="col-md-2 col-form-label">Proje Kodu</label>
+                    <div class="col-md-6">
+                        <input asp-for="ShortCode" id="ProductProjectCodeSave" class="form-control" type="text" placeholder="Proje Kodunu Yazınız" required>
+                        <div class="invalid-feedback">Proje Kodu Boş olamaz!</div>
+                    </div>
+                </div>
+
+                <div class="mb-3 row">
+                    <label asp-for="Explanation" class="col-md-2 col-form-label">Açıklama</label>
+                    <div class="col-md-6">
+                        <input id="ProductProjectsExplanationSave" asp-for="Explanation" type="text" class="form-control" placeholder="Açıklama" required>
+                        <div class="invalid-feedback">Projenin Açıklaması Boş olamaz!</div>
+                    </div>
+                </div>
+
+
+                <input type="submit" class="btn btn-primary waves-effect waves-light me-1 form-group" />
+
+
+
+
+            </form>
+
+
+        </div>
+    </div>
+</div>
+
+

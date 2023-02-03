@@ -1,0 +1,132 @@
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+D:\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\uzmanim\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\rumeysa.ozdemir\source\repos\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\Rumeysa Özdemir\OneDrive\Masaüstü\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\rumeysa.ozdemir\Desktop\17-11-2022\Gorevcim\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimMerve\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\mervegul.aydin\Desktop\FBÜ-DERS\06-MVC\Proje\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\uzmanim\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.deps.json
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\bin\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.AssemblyReference.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfoInputs.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.AssemblyInfo.cs
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.csproj.CoreCompileInputs.cache
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\refint\Gorevcim.Core.dll
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\Gorevcim.Core.pdb
+C:\Users\merve.tezcan\Desktop\GorevcimSon\Gorevcim.Core\obj\Debug\net6.0\ref\Gorevcim.Core.dll
